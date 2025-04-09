@@ -4,7 +4,7 @@ This is a leaf disease detection and cure tips recommendation system.
 # 1. Project Overview:
 - It's is an end-to-end plant health diagnosis system that combines computer vision with agricultural expertise to:
 
-- Detect 33 common diseases across 7 key crops:  "Apple", "Corn", "Peach", "Pepper bell", "Potato", "Strawberry", "Tomato"
+- Detect 33 common diseases across 7 key crops:  "Apple", "Corn", "Peach", "Pepper bell", "Potato", "Strawberry", "Tomato" though pretrained model(Leaf Deases(96,88).h5)
 
 - Recommend science-backed treatments
 
