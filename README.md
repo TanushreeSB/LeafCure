@@ -1,5 +1,5 @@
 # LeafCure
-This is a leaf disease detection and cure tips recommendation system. 
+This is a leaf disease detection and cure tips recommendation system made using CNN model. 
 
 # 1. Project Overview:
 - It's is an end-to-end plant health diagnosis system that combines computer vision with agricultural expertise to:
