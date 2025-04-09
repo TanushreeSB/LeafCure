@@ -75,7 +75,8 @@ Plant Selection → 2. Image Capture → 3. Diagnosis → 4. Treatment Options �
 - You can download the model from: https://drive.google.com/file/d/1a7P2M8o-HfGG87BYYo-RjHVnj6lu3PXz/view?usp=sharing
 and place it training folder as model/Leaf Deases(96,88).h5
 
-To run the project, use command: streamlit run main.py
+- To run the project, use command:
+- streamlit run main.py
 
 
 
