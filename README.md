@@ -12,7 +12,7 @@ This is a leaf disease detection and cure tips recommendation system.
 
 - Support farmers in remote areas
 
-2 Key Statistics:
+# 2 Key Statistics:
 
 96.88% training accuracy
 
