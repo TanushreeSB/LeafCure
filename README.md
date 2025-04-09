@@ -4,7 +4,7 @@ This is a leaf disease detection and cure tips recommendation system.
 # 1. Project Overview:
 - It's is an end-to-end plant health diagnosis system that combines computer vision with agricultural expertise to:
 
-- Detects 33 common diseases across 7 key crops:  "Apple", "Corn", "Peach", "Pepper bell", "Potato", "Strawberry", "Tomato"
+- Detect 33 common diseases across 7 key crops:  "Apple", "Corn", "Peach", "Pepper bell", "Potato", "Strawberry", "Tomato"
 
 - Recommend science-backed treatments
 
@@ -12,7 +12,7 @@ This is a leaf disease detection and cure tips recommendation system.
 
 - Support farmers in remote areas
 
-# Key Statistics:
+2 Key Statistics:
 
 96.88% training accuracy
 
@@ -22,11 +22,11 @@ This is a leaf disease detection and cure tips recommendation system.
 
 Supports 5 regional languages
 
-# 2. Model Specifications
+# 3. Model Specifications
 
 - Core Network:
 
-Type: Deep Convolutional Neural Network
+- Type: Deep Convolutional Neural Network
 
 Layers:
 
@@ -42,7 +42,7 @@ Plant Selection → 2. Image Capture → 3. Diagnosis → 4. Treatment Options �
 
 - 4.2 Mobile Optimization
 
-# UI:
+# 5. UI:
 
 ![image](https://github.com/user-attachments/assets/f6c68c83-851d-4b67-8f31-947b9dc2ce9f)
 
